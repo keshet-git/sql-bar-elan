@@ -1,0 +1,1 @@
+select * from trip order by eihurim desc limit 10;
